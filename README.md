@@ -7,7 +7,7 @@
  <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-안녕하세요😀
+<!-- 안녕하세요😀
 
 최근 `반응형 웹` 에 관심이 많습니다 !
 
@@ -22,6 +22,6 @@ FE 기술을 떠나 다른 `AI` `빅데이터` `블록체인`
 ## 💻 개발 경험 및 교육 Development experience and education. 
 수리중 🔨
 <!-- <a href="https://www.notion.so/Sally-2-f40b07bab9164c509556661fabfdf0c6">[2021. 07 ~ 08]     파이썬 코칭 스터디 🏆 (네이버 부스트 코스)</a>
- -->
-## 📚 기술 스택 My Skill.
-수리중 🔨
+ --> -->
+## 📚 My Skill.
+FrontEnd - HTML, CSS, JS, REACT
