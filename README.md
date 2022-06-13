@@ -22,6 +22,7 @@ FE 기술을 떠나 다른 `AI` `빅데이터` `블록체인`
 ## 💻 개발 경험 및 교육 Development experience and education. 
 수리중 🔨
 <!-- <a href="https://www.notion.so/Sally-2-f40b07bab9164c509556661fabfdf0c6">[2021. 07 ~ 08]     파이썬 코칭 스터디 🏆 (네이버 부스트 코스)</a>
- --> -->
-## 📚 My Skill.
+ -->
+<!-- ## 📚 My Skill.
 FrontEnd - HTML, CSS, JS, REACT
+ -->
