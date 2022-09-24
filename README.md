@@ -1,7 +1,7 @@
 <!-- 타이틀, 접속자수 확인태그  -->
 # 🖐️ 안녕하세요 Hello こんにちは Bonjour 🖐️ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoBaeKR&count_bg=%231C639B&title_bg=%23818181&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/e9677005-62e3-493c-8c14-3f89407b0a86.svg)](https://wakatime.com/@e9677005-62e3-493c-8c14-3f89407b0a86)
-## 😊 “ 협업 러버”  or “수다 쟁이 FE 개발자” 조성배입니다.   
+## 😊  조성배입니다.   
 <!--각각 sns 태그  -->
  <a href="mailto:tmsprqo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
