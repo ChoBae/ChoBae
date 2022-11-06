@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Chobae's%20github:\)&fontSize=90)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chobae's%20github:)&fontSize=90" />
+</div>
 
 <!-- 타이틀, 접속자수 확인태그  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoBaeKR&count_bg=%231C639B&title_bg=%23818181&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/e9677005-62e3-493c-8c14-3f89407b0a86.svg)](https://wakatime.com/@e9677005-62e3-493c-8c14-3f89407b0a86)
@@ -9,15 +10,15 @@
  <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
+<!-- 
 
-<!---->
 <div align="center">
  <h1> main</h1>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-
+ -->
 
 
 
