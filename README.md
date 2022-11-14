@@ -1,14 +1,44 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chobae's%20github:)&fontSize=90" />
+<!-- header section -->
+<div align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA94D1&fontColor=DEBACE&height=200&section=header&text=Chobae's%20github:)&fontSize=90" />
+  <div align="right">
+    <!-- hits -->
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoBaeKR&count_bg=%231C639B&title_bg=%23818181&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" />
+    <!-- wakatime -->
+    <img src="https://wakatime.com/badge/user/e9677005-62e3-493c-8c14-3f89407b0a86.svg" />
+  </div>
 </div>
-
-<!-- 타이틀, 접속자수 확인태그  -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoBaeKR&count_bg=%231C639B&title_bg=%23818181&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/e9677005-62e3-493c-8c14-3f89407b0a86.svg)](https://wakatime.com/@e9677005-62e3-493c-8c14-3f89407b0a86)
-
-<!--각각 sns 태그  -->
+	
+	
+<!--profile section -->
+<div align="center" >
+  <!-- git most languages -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChobaeKR&theme=omni&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+	
+### Cho~~Sung~~Bae 😎
+***
+ 
+<!--   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a>  -->
+  <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tmsprqo"/></a>
+ <!-- sns -->
  <a href="mailto:tmsprqo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ 
+</div>
+<!-- skill sectin -->
+
+<!-- <div align="center" >
+
+### 몰루?
+  <img src="https://github-readme-stats.vercel.app/api?username=ChobaeKR&theme=omni&show_icons=true">
+</div>
+ -->
+
+
+
+	
+
 
 <!-- 
 
@@ -22,16 +52,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!-- footer section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA94D1&height=200&section=footer">
+</div>
 
 
 
