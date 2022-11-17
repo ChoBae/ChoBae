@@ -13,7 +13,7 @@
 <!--profile section -->
 <div align="center" >
   <!-- git most languages -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChobaeKR&theme=omni&exclude_repo=pintos-kaist,Algorithms,mallocLab,webProxy&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=pintos-kaist,Algorithms,mallocLab,webProxy&hide=Procfile&layout=compact&langs_count=8"/>
 	
 ### Cho~~Sung~~Bae 😎
 ***
