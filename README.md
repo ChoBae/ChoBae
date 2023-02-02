@@ -13,7 +13,7 @@
 <!--profile section -->
 <div align="center" >
   <!-- git most languages -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
 	
 ### Cho~~Sung~~Bae 😎
 ***
