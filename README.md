@@ -1,4 +1,3 @@
-
 <!-- header section -->
 <div align="center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA94D1&fontColor=DEBACE&height=200&section=header&text=Chobae's%20github:)&fontSize=90" />
@@ -12,20 +11,20 @@
 	
 	
 <!--profile section -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
   <!-- git most languages -->
-  <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
+  <img style="max-width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
 
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 50%;">
-    <h3>
-  Cho<span class="strikethrough">Sung</span>Bae 😎
-</h3>
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
+    <h3>Cho<span style="text-decoration: line-through;">Sung</span>Bae 😎
+    </h3>
     <div style="display: flex; justify-content: center;">
       <a href="https://solved.ac/tmsprqo"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tmsprqo"/></a>
       <a href="mailto:tmsprqo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
       <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     </div>
+
   </div>
 </div>
 <!-- skill sectin -->
@@ -71,18 +70,3 @@ FE 기술을 떠나 다른 `AI` `빅데이터` `블록체인`
 <!-- ## 📚 My Skill.
 FrontEnd - HTML, CSS, JS, REACT
  -->
-
-<!-- styles -->
-<style>
-  .strikethrough {
-    position: relative;
-  }
-  .strikethrough:before {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    border-bottom: 2px solid black;
-  }
-</style>
