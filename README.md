@@ -1,3 +1,4 @@
+
 <!-- header section -->
 <div align="center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA94D1&fontColor=DEBACE&height=200&section=header&text=Chobae's%20github:)&fontSize=90" />
@@ -11,20 +12,21 @@
 	
 	
 <!--profile section -->
-<div align="center" >
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- git most languages -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
-	
-### Cho~~Sung~~Bae 😎
-***
- 
-<!--   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a>  -->
-  <a href="https://solved.ac/tmsprqo"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tmsprqo"/></a>
- <!-- sns -->
- <a href="mailto:tmsprqo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
- 
+  <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
+
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 50%;">
+    <h3>
+  Cho<span class="strikethrough">Sung</span>Bae 😎
+</h3>
+    <div style="display: flex; justify-content: center;">
+      <a href="https://solved.ac/tmsprqo"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tmsprqo"/></a>
+      <a href="mailto:tmsprqo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+      <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+      <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+    </div>
+  </div>
 </div>
 <!-- skill sectin -->
 
@@ -35,12 +37,7 @@
 </div>
  -->
 
-
-
-	
-
-
-<!-- 
+<!--
 
 <div align="center">
  <h1> main</h1>
@@ -50,14 +47,10 @@
 </div>
  -->
 
-
-
 <!-- footer section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA94D1&height=200&section=footer">
 </div>
-
-
 
 <!-- 안녕하세요😀
 
@@ -70,11 +63,26 @@ FE 기술을 떠나 다른 `AI` `빅데이터` `블록체인`
 현재는 `모각코` 라는 코딩테스트 스터디를 참여하고 있습니다🐱‍👤
 
  `react`를 공부하며, 평소 아이디어였던 심플한 정보 제공 웹을 제작 하고 있습니다 😊
- 
-## 💻 개발 경험 및 교육 Development experience and education. 
+
+## 💻 개발 경험 및 교육 Development experience and education.
 수리중 🔨
 <!-- <a href="https://www.notion.so/Sally-2-f40b07bab9164c509556661fabfdf0c6">[2021. 07 ~ 08]     파이썬 코칭 스터디 🏆 (네이버 부스트 코스)</a>
  -->
 <!-- ## 📚 My Skill.
 FrontEnd - HTML, CSS, JS, REACT
  -->
+
+<!-- styles -->
+<style>
+  .strikethrough {
+    position: relative;
+  }
+  .strikethrough:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    border-bottom: 2px solid black;
+  }
+</style>
