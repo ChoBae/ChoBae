@@ -16,10 +16,8 @@
   <img style="max-width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
 
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
-    <h3>Cho<span style="text-decoration: line-through;">Sung</span>Bae 😎
-    </h3>
+    <h3>Contact Me😎</h3>
     <div style="display: flex; justify-content: center;">
-      <a href="https://solved.ac/tmsprqo"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tmsprqo"/></a>
       <a href="mailto:tmsprqo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
       <a href="https://www.instagram.com/whqo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="https://velog.io/@chobae"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
