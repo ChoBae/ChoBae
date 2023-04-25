@@ -13,7 +13,7 @@
 <!--profile section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
   <!-- git most languages -->
-  <img style="max-width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/>
+<!--   <img style="max-width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobae&theme=omni&exclude_repo=Algorithms,Jungletube,SwJungle5thW106&hide=c,perl,makefile&layout=compact&langs_count=8"/> -->
 
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
     <h3>Contact Me😎</h3>
@@ -45,10 +45,10 @@
  -->
 
 <!-- footer section -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA94D1&height=200&section=footer">
 </div>
-
+ -->
 <!-- 안녕하세요😀
 
 최근 `반응형 웹` 에 관심이 많습니다 !
