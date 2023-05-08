@@ -8,34 +8,24 @@
     <img src="https://wakatime.com/badge/user/e9677005-62e3-493c-8c14-3f89407b0a86.svg" />
   </div>
 </div>
-	
 
 
 <!--Project section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
-  <h3>My Project 1 🔥</h3>
+  <h3>My Project  🔥</h3>
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
-    <a href="https://project1.com">
-      <img src="https://project1.com/images/project1.png" alt="Project 1 Image" style="width: 100%; max-width: 300px;">
+    <a href="https://github.com/ChoBae/Highlighters">
+      <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F31yWM%2FbtrXCZpaP2S%2FyqPF5xC7b25iYzKE5KflE1%2Fimg.png" alt="Project 1 Image" style="width: 100%; max-width: 300px;">
     </a>
-    <p>Description of Project 1</p>
+    <p>익스텐션을 통해 링크 및 텍스트, 이미지, 동영상의 중요한 부분을 하이라이팅해서 그룹과 공유하세요 😎</p>
   </div>
 
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
-    <h3>My Project 2 🔥</h3>
-    <a href="https://project2.com">
-      <img src="https://project2.com/images/project2.png" alt="Project 2 Image" style="width: 100%; max-width: 300px;">
+    <a href="https://github.com/SummaryWagon/SummaryWagon">
+      <img src="https://user-images.githubusercontent.com/101175828/236845283-1c4025f1-28c2-454e-a1fb-f9a9fcd43a76.png" alt="Project 2 Image" style="width: 100%; max-width: 300px;">
     </a>
-    <p>Description of Project 2</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
-    <h3>My Project 3 🔥</h3>
-    <a href="https://project3.com">
-      <img src="https://project3.com/images/project3.png" alt="Project 3 Image" style="width: 100%; max-width: 300px;">
-    </a>
-    <p>Description of Project 3</p>
+    <p>다양한 글을 빠르고 간편하게 요약할 수 있는 기능을 제공합니다 🤖</p>
   </div>
 
 </div>
