@@ -20,7 +20,7 @@
     </a>
     <p>익스텐션을 통해 링크 및 텍스트, 이미지, 동영상의 중요한 부분을 하이라이팅해서 그룹과 공유하세요 😎</p>
   </div>
-
+  <br>
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
     <a href="https://github.com/SummaryWagon/SummaryWagon">
       <img src="https://user-images.githubusercontent.com/101175828/236845283-1c4025f1-28c2-454e-a1fb-f9a9fcd43a76.png" alt="Project 2 Image" style="width: 50%; max-width: 200px;">
