@@ -9,7 +9,37 @@
   </div>
 </div>
 	
-	
+
+
+<!--Project section -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+
+  <h3>My Project 1 🔥</h3>
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
+    <a href="https://project1.com">
+      <img src="https://project1.com/images/project1.png" alt="Project 1 Image" style="width: 100%; max-width: 300px;">
+    </a>
+    <p>Description of Project 1</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
+    <h3>My Project 2 🔥</h3>
+    <a href="https://project2.com">
+      <img src="https://project2.com/images/project2.png" alt="Project 2 Image" style="width: 100%; max-width: 300px;">
+    </a>
+    <p>Description of Project 2</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 45%;">
+    <h3>My Project 3 🔥</h3>
+    <a href="https://project3.com">
+      <img src="https://project3.com/images/project3.png" alt="Project 3 Image" style="width: 100%; max-width: 300px;">
+    </a>
+    <p>Description of Project 3</p>
+  </div>
+
+</div>
+
 <!--profile section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
   <!-- git most languages -->
