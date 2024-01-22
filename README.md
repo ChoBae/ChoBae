@@ -8,8 +8,9 @@
     <img src="https://wakatime.com/badge/user/e9677005-62e3-493c-8c14-3f89407b0a86.svg" />
   </div>
 </div>
-
-
+<!-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C499F3&random=false&width=435&lines=%22I+was+born+in+1994.%22;%22I+am+an+ESFJ.%22;%22My+hobbies+are+%E2%9A%BD+%2F+%F0%9F%8F%83+%2F+%F0%9F%8E%A7.%22;%22I+enjoy+talking+about+development.%22;%22Feel+free+to+contact+me+anytime+%F0%9F%98%8A.%22)](https://git.io/typing-svg)
+-->
 <!--Project section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
